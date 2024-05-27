@@ -1,11 +1,10 @@
 # PermeaCidade
-Bem-vindo ao PermeaCidade, um projeto desenvolvido como parte da Atividade Prática Supervisionada (APS) do curso de Bacharelado em Ciência da Computação. Este projeto foi criado em HTML, CSS e JavaScript e tem como foco ESG (Environmental, Social, and Governance) para cidades inteligentes e sustentáveis, destacando os benefícios das cidades esponjas.
+Bem-vindo ao PermeaCidade, um projeto desenvolvido como parte da Atividade Prática Supervisionada (APS) do curso de Bacharelado em Ciência da Computação. Este projeto foi criado em HTML e CSS e tem como foco ESG (Environmental, Social, and Governance) para cidades inteligentes e sustentáveis, destacando os benefícios das cidades esponjas.
 
 ## Tecnologias Utilizadas
 
 - HTML
 - CSS
-- JavaScript
 
 ## Instalação
 
